@@ -10,6 +10,7 @@
   "license": "MIT",
   "repository": "SeyZ/jsonapi-serializer",
   "dependencies": {
+    "bluebird": "^2.10.2",
     "inflection": "^1.7.1",
     "lodash": "^3.9.3"
   },
