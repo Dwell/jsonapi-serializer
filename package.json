@@ -1,6 +1,6 @@
 {
-  "name": "jsonapi-serializer",
-  "version": "2.0.4",
+  "name": "@dwell/jsonapi-serializer",
+  "version": "2.0.6",
   "description": "A Node.js framework agnostic library for serializing your data to JSON API",
   "main": "index.js",
   "scripts": {
